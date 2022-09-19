@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+h2{
+	color:#28a745;
+	font-family: 'Raleway', sans-serif;
+}
+h5{
+	color:#a72898;
+	font-family: 'Raleway', sans-serif;
+}
+.font, p,a{
+	font-family: 'Open Sans', sans-serif;
+	font-family: 'Raleway', sans-serif;
+	font-family: 'Ubuntu', sans-serif;
+}
+h3{
+	color:#a76e28;
+	font-family: 'Raleway', sans-serif;
+}
